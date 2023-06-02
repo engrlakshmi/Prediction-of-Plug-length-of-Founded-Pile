@@ -19,7 +19,7 @@ Data Preprocessing: Cleaned the dataset by handling missing values, normalizing 
 
 Model Training: Selected an regression machine learning algorithm based on the nature of the problem and available data. Split the dataset into training and testing sets.
 
-Model Training and Evaluation: Trained the selected model using the training dataset and evaluate its performance using appropriate evaluation metrics, such as accuracy, precision, recall, or F1 score. Adjust the model parameters or try different algorithms if necessary to improve performance.
+Model Training and Evaluation: Trained the selected model using the training dataset and evaluate its performance using appropriate evaluation metrics, such as accuracy. 
 
 Prediction and Interpretation: Once the model is trained and evaluated, it is used to predict pile plugging behavior for new instances or unseen data. Interpret the model's predictions to gain insights into the factors that contribute to pile plugging and their relative importance.
 
